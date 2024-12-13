@@ -114,5 +114,4 @@ Geliştirmeler için lütfen konular açın veya pull request gönderin. Bu anal
 
 ---
 
-© 2024 Your Name | [Lisans: MIT](LICENSE)
 
